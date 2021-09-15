@@ -1,0 +1,2 @@
+# CompanionAI
+Unity Companion AI
